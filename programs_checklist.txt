@@ -1,0 +1,36 @@
+number in spiral
+nth largest without sorting
+tower of hanoi
+reversing a singly linked list
+finding the first duplicate element in a singly linked list
+extracting unique characters from string
+
+
+
+checking a number has exactly 3 distinct factors
+
+
+
+
+searching and sorting algorithms
+check if a number has exactly three distinct factors or not
+program to fing sum of series a/1!+ a^2/2!+..
+
+
+crawling, regex
+
+
+
+
+check if a given number is a fibonacci number or not
+SQL 
+joins, normalizations
+
+
+collection framework, threads, exception handling, strings
+
+
+
+jsps and servlets
+servlet lifecycle, html coding
+                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,9 @@
+Exceptions
+OOPs concepts
+Threads
+Life Cycles
+Final, Finally and Finalize
+99.9% pure
+is a relationship, has a relationship- inheritance
+Run-time polymorphism, dynamic method dispatch
+
