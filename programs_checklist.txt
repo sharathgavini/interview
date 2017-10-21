@@ -4,8 +4,9 @@ tower of hanoi
 reversing a singly linked list
 finding the first duplicate element in a singly linked list
 extracting unique characters from string
-
-
+convert decimal to binary 
+find common elements between the two arrays
+converting the string to number without using Integer.parseInt()
 
 checking a number has exactly 3 distinct factors
 
@@ -14,7 +15,8 @@ checking a number has exactly 3 distinct factors
 
 searching and sorting algorithms
 check if a number has exactly three distinct factors or not
-program to fing sum of series a/1!+ a^2/2!+..
+program to fing sum of series a/1!+ a^2/2!+..'
+find sum of first 1000 prime numbers
 
 
 crawling, regex
